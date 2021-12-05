@@ -1,7 +1,4 @@
-# Project-LabPBO-Mernopedia!
-
-Nama Kelompok : INFTECH
-Nama Project : Mernopedia
+# INFTECH-Mernopedia!
 
 # Deskripsi: 
 Program ini merupakan program simulasi pembelian sebuah course. Pada program ini user dapat melakukan register untuk login, kemudian melihat beberapa course dan membelinya, setelah itu akan diarahkan ke sistem pembayaran dan kode bank untuk untuk melakukan pembayaran.
