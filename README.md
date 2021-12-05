@@ -11,7 +11,7 @@ Anggota Kelompok:
   1. Muhammad Raja Furqan
   2. Anis Mahyatul Fauza
   3. Rusyda Amalia
-  4. Siti Tsarwa
+  4. Siti Tsarwa Akin
 
 # Cara Run Program
 1. Clone/Download Repository Github ini
